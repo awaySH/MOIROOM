@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">moiroom</string>
+
+    <!-- Social -->
+    <string name="kakao_login_button_description">카카오 로그인 버튼</string>
+    <string name="facebook_app_id">1429064924713303</string>
+
+    <!-- NowMatchingActivity -->
+    <string name="now_matching_header">매칭을 시작해보세요.</string>
+    <string name="now_matching_header_2">룸메이트가 기다리고 있어요!</string>
+    <string name="now_matching_sign">터치해서 매칭 시작하기</string>
+    <string name="now_matching_main_image_description">메인 이미지</string>
+
+    <!-- 아이콘 설명 -->
+    <string name="icon_touch">터치 아이콘</string>
+
+    <!-- 로고 설명 -->
+    <string name="logo_letter">모이룸 글자 로고</string>
+
+    <!-- sample -->
+    <string name="sample_string">이것은 샘플 테스트 문장입니다.</string>
+    <string name="sample_number_matching_rate">99</string>
+    <string name="sample_nickname">Abraham</string>
+
+    <!-- 데이터 수집 및 가공 과정 설명 -->
+    <string name="sociable_description">
+        전체 어플리케이션 사용량을 분석해요. 전체 사용량과 통화, 카카오톡, 인스타그램 등 사교 활동을 위한 어플리케이션의 사용량을 비교해요. 전체 활동 중 사교 활동의 비중을 분석하여 사교 수치를 만들어요!
+    </string>
+    <string name="positivity_description">
+        인스타그램 피드를 분석해요. 텍스트의 구조와 내용을 파악하는 자연어 처리를 통해서 긍정 및 부정도를 수치화해요!
+    </string>
+    <string name="activity_description">
+        사진 데이터의 위치를 분석해요. 위치 데이터를 그룹화하고, 위치 그룹의 다양성을 분석해서 활동성을 수치화해요!
+    </string>
+    <string name="communion_description">
+        통화 데이터를 조회해요. 전체 통화 건 수 대비 평균 통화량을 분석하고, 커뮤니케이션 데이터를 종합해서 공유성을 수치화해요!
+    </string>
+    <string name="altruism_description">
+        유튜브 구독 목록을 조회하고, 그 중 정보성 채널의 비율을 데이터화 해요. 공감 데이터를 더해서 이타성을 수치화해요!
+    </string>
+    <string name="empathy_description">
+        공감능력은 부모님의 영향이 크다고 해요. 전체 통화시간 중 부모님과의 통화시간의 비중을 분석해요. 부모님과의 관계 데이터에 인스타 피드 등에서 감정 표현 데이터를 함께 분석해서 공감 수치를 만들어요!
+    </string>
+    <string name="humor_description">
+        유머 감각, 대인 관계의 소통을 종합한 데이터에요. 공감, 사교, 공유 데이터를 분석해서 수치화해요!
+    </string>
+    <string name="generous_description">
+        통화 데이터를 조회해요. 수신 시간과 발신 시간의 비율을 분석하고, 이타 데이터를 더해서 계산성을 수치화해요!
+    </string>
+</resources>
